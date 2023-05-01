@@ -1,5 +1,1 @@
-# hello
-Hello container app
-# hello
-
-# THis is README file
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/gauravkr04/hello/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/gauravkr04/hello/tree/main)
